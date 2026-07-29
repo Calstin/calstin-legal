@@ -8,7 +8,7 @@
 
 If you discover a security vulnerability in Calstin, please report it responsibly. We take all reports seriously and will respond promptly.
 
-**Email:** [security@calstin.com](mailto:security@calstin.com)
+**Email:** [contact — coming soon]
 
 Please **do not** file a public GitHub issue for security vulnerabilities. Public disclosure before a fix is in place puts users at risk.
 
@@ -106,7 +106,7 @@ If this changes, we will update this document.
 
 We follow a **coordinated disclosure** model:
 
-1. Reporter submits vulnerability privately to security@calstin.com
+1. Reporter submits vulnerability privately to [contact — coming soon]
 2. We acknowledge within 2 business days
 3. We investigate and develop a fix
 4. We deploy the fix
@@ -117,7 +117,7 @@ We follow a **coordinated disclosure** model:
 
 ## PGP Key
 
-PGP encryption for sensitive reports is available on request. Email security@calstin.com to request our public key.
+PGP encryption for sensitive reports is available on request. Visit calstin.com for contact information. to request our public key.
 
 ---
 
@@ -133,7 +133,7 @@ Researchers who responsibly disclose valid vulnerabilities will be listed here (
 
 | Purpose | Contact |
 |---------|---------|
-| Security vulnerabilities | security@calstin.com |
-| Privacy questions | privacy@calstin.com |
-| Legal matters | legal@calstin.com |
-| General | hello@calstin.com |
+| Security vulnerabilities | [contact — coming soon] |
+| Privacy questions | [contact — coming soon] |
+| Legal matters | [contact — coming soon] |
+| General | [contact — coming soon] |
