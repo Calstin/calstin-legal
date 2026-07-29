@@ -99,4 +99,4 @@ These Terms are governed by and construed in accordance with the laws of the jur
 
 ## 14. Contact
 
-For legal questions, email [legal@calstin.com](mailto:legal@calstin.com). For security disclosures, see [SECURITY.md](./SECURITY.md).
+For legal questions, use the contact form at calstin.com. For security disclosures, see [SECURITY.md](./SECURITY.md).
