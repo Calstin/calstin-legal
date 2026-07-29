@@ -26,6 +26,6 @@ Public legal and security documents for [Calstin](https://calstin.com) — the W
 
 | Purpose | Email |
 |---------|-------|
-| Security vulnerabilities | [contact — coming soon] |
-| Privacy & data requests | [contact — coming soon] |
-| Legal | [contact — coming soon] |
+| Security vulnerabilities | security@calstin.com |
+| Privacy & data requests | legal@calstin.com |
+| Legal | legal@calstin.com |
