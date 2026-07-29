@@ -67,7 +67,7 @@ Games launched through Calstin run inside cross-origin iframes on the game devel
 
 ## 8. Data Retention
 
-Session tokens expire after 30 days of inactivity. Anonymised usage logs are retained for up to 12 months for performance analysis. You may request deletion of your account and associated data at any time by emailing [contact — coming soon].
+Session tokens expire after 30 days of inactivity. Anonymised usage logs are retained for up to 12 months for performance analysis. You may request deletion of your account and associated data at any time by emailing legal@calstin.com.
 
 ---
 
